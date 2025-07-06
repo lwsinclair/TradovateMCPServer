@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/phsphd-tradovatemcpserver-badge.png)](https://mseep.ai/app/phsphd-tradovatemcpserver)
+
 Two Tradovate Model Context Protocol (MCP) servers are currently available
 
 Desktop Version
